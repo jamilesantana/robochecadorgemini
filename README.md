@@ -19,3 +19,6 @@ Jamile Santana é jornalista de dados e especialista em Transparência Pública 
 Em 2021, foi vencedora do Prêmio Cláudio Weber Abramo de Jornalismo de Dados com o projeto MonitorA pela Revista Azmina, e recebeu a medalha Zumbi dos Palmares pela sua atuação como ativista na área de transparência pública e dados em Mogi das Cruzes (SP). No mesmo ano, foi vencedora do Prêmio Jasbuti, pela edição do livro "Prato Firmeza Preto - Guia Gastronômico das Quebradas", da Énois. Em 2020, foi uma das vencedoras do Prêmio Neusa Maria de Jornalismo  iniciativa de repórteres negros e apoiada pelo Alma Preta.
 Já foi mentora em oficinas da Abraji por meio do projeto Comprova, no curso de pós-graduação em Jornalismo de Dados do IDP e na Escola de Dados (curso Jornalismo Local e CodaBr). 
 Tem experiência de 11 anos em jornalismo diário, passando por redações locais, entre elas a do G1 - Portal de Notícias da Globo na região do Alto Tietê.
+
+## Entre em contato <h2>
+Se você quiser usar ou colaborar com a melhoria deste código, fique à vontade para entrar em contato através do e-mail s.jamilesantana@gmail.com
