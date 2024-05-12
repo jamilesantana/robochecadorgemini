@@ -10,6 +10,7 @@ O modelo foi treinado com notícias de veículos nacionais como G1, Uol, Folha d
 ## Observações <h2>
 
 * O script ainda está em desenvolvimento e pode ser aprimorado com novas funcionalidades e modelos de linguagem.
+* Apesar de classificar as informações obtidas via input, o robô pode não ser preciso nas respostas, principalmente se as perguntas envolverem número de pessoas resgatadas, óbitos e outros;
 * É importante lembrar que as respostas do chatbot devem ser sempre verificadas com as fontes originais de informação.
 * Esta é a minha primeira ferramenta desenvolvida com API Generativa e estou nos primeiros passos na área de programação. Então seja gentil =)
 
