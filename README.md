@@ -5,7 +5,7 @@
 Este script apresenta um chatbot que utiliza modelos de linguagem avançados para auxiliar usuários no combate à desinformação sobre as enchentes no Estado do Rio Grande do Sul. O projeto foi desenvolvido durante a [Imersão IA 2024 da Alura](https://www.alura.com.br/imersao-ia-google-gemini) e do Google. 
 ## Como funciona <h2>
 
-O modelo foi treinado com notícias de veículos nacionais como G1, Uol, Folha de São Paulo e Estadão, sobre as enchentes do Rio Grande do Sul. Além disso, também recebeu conteúdo divulgado pela agência de checagem [Aos Fatos] (https://www.aosfatos.org/noticias/informacoes-falsas-enchentes-rs/) sobre todas as informações desmentidas (publicadas até 11/05) no site. A partir dessa biblioteca, o robê recebe uma pergunta do usuário relacionado ao tema, consulta a base de reportagens e checagem e responde se aquela informação é verdadeira, falsa ou se não há informações suficientes para classificar a informação fornecida pelo usuário. 
+O modelo foi treinado com notícias de veículos nacionais como G1, Uol, Folha de São Paulo e Estadão, sobre as enchentes do Rio Grande do Sul. Além disso, também recebeu conteúdo divulgado pela agência de checagem [Aos Fatos](https://www.aosfatos.org/noticias/informacoes-falsas-enchentes-rs/) sobre todas as informações desmentidas (publicadas até 11/05) no site. A partir dessa biblioteca, o robê recebe uma pergunta do usuário relacionado ao tema, consulta a base de reportagens e checagem e responde se aquela informação é verdadeira, falsa ou se não há informações suficientes para classificar a informação fornecida pelo usuário. 
 
 ## Observações <h2>
 
