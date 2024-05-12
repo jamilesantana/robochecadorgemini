@@ -9,9 +9,9 @@ O modelo foi treinado com notícias de veículos nacionais como G1, Uol, Folha d
 
 ## Observações <h2>
 
-*O script ainda está em desenvolvimento e pode ser aprimorado com novas funcionalidades e modelos de linguagem.
-*É importante lembrar que as respostas do chatbot devem ser sempre verificadas com as fontes originais de informação.
-*Esta é a minha primeira ferramenta desenvolvida com API Generativa e estou nos primeiros passos na área de programação. Então seja gentil =)
+* O script ainda está em desenvolvimento e pode ser aprimorado com novas funcionalidades e modelos de linguagem.
+* É importante lembrar que as respostas do chatbot devem ser sempre verificadas com as fontes originais de informação.
+* Esta é a minha primeira ferramenta desenvolvida com API Generativa e estou nos primeiros passos na área de programação. Então seja gentil =)
 
 ## Sobre mim <h2> 
 
